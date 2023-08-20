@@ -5,6 +5,9 @@
 	background-color:#f1f1f1;
 	box-shadow:rgba(0, 0, 0, 0.1) 0px 4px 12px; 0px 4px 12px;
 }
+#img{
+	width:100%;
+}
 #btn{
 	color:white;
 	background-color:#fe625a;
